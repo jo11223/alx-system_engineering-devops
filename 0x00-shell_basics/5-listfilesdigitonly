@@ -1,4 +1,2 @@
 #!/bin/bash
-ls -l 
-id command
-ls -a
+ls -l id -a
